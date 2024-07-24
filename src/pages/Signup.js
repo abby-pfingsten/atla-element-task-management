@@ -14,7 +14,6 @@ import Box from '@mui/material/Box'
 import Typography from '@mui/material/Typography'
 import Container from '@mui/material/Container'
 import { createTheme, ThemeProvider } from '@mui/material/styles'
-import x from "../icons/glacier.png"
 const defaultTheme = createTheme()
 
 export default function SignUp() {
@@ -39,11 +38,7 @@ export default function SignUp() {
             alignItems: 'center',
           }}
         >
-          {/* <Avatar sx={{ m: 1, bgcolor: 'secondary.main' }}>
-            <LockOutlinedIcon />
-          </Avatar> */}
-
-          <Avatar alt='asfd' src={x}></Avatar>
+          <Avatar sx={{ m: 1, bgcolor: 'secondary.main' }}></Avatar>
           <Typography component='h1' variant='h5'>
             Sign up
           </Typography>
