@@ -70,3 +70,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # superhero-task-mamagement
 # superhero-task-mamagement
+
+
+## Icons
+<a href="https://www.flaticon.com/free-icons/glacier" title="glacier icons">Glacier icons created by Freepik - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/nature" title="nature icons">Nature icons created by juicy_fish - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/mystical" title="mystical icons">Mystical icons created by smalllikeart - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/volcano" title="volcano icons">Volcano icons created by Freepik - Flaticon</a>
